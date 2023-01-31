@@ -1,3 +1,4 @@
+import React from "react";
 const SimpleSwiper = (options) => {
     const { data } = options;
 
