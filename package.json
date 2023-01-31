@@ -1,6 +1,6 @@
 {
   "name": "@sc0rp10n.py/simple-swiper",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple swiper for your website",
   "main": "index.js",
   "scripts": {
