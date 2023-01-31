@@ -1,11 +1,11 @@
 {
   "name": "@sc0rp10n.py/simple-swiper",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "A simple swiper for your website",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "node index.js"
+    "dev": "node index.jsx"
   },
   "repository": {
     "type": "git",
@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/sc0rp10n-py/simple-swiper/issues"
   },
-  "homepage": "https://github.com/sc0rp10n-py/simple-swiper#readme"
+  "homepage": "https://github.com/sc0rp10n-py/simple-swiper#readme",
+  "dependencies": {
+    "esbuild": "^0.17.5"
+  }
 }
